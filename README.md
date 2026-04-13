@@ -1,5 +1,5 @@
 # Custom-TA
-> **강사의 시간을 돌려주고, 학생의 성장을 가시화하는** AI 맞춤형 교육 보조 플랫폼
+> **강의 데이터로 맞춤형 답변을, 지능형 개입 제안으로 교강사의 시간을 가치 있게 해주는** AI 맞춤형 교육 보조 플랫폼
 [![Frontend](https://img.shields.io/badge/Frontend-TypeScript-3178c6?logo=typescript)](https://github.com/jung-jong/Front)
 [![Backend](https://img.shields.io/badge/Backend-Python-3776ab?logo=python)](https://github.com/jung-jong/Back)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-37b1b1)](https://custom-ta.vercel.app/)
