@@ -19,8 +19,7 @@
 | 학생 | 자기 약점·진도를 객관적으로 모름 | XP·퀘스트 결과 기반 성취도 지표 시각화 |
 ---
 ## 시스템 아키텍처
-[학생 / 강사 브라우저] │ ▼ [Frontend — React + TypeScript + Vite] ← Vercel 배포 │ REST API (Bearer Token) ▼ [Backend — FastAPI + Python] ├── 인증 서버 (JWT) ├── RAG 엔진 (강의 자료 벡터 인덱싱) ├── LLM 연동 (질의응답 / 문제 생성) └── 분석 엔진 (성취도·취약점 집계) │ ▼ [Database / Storage] ├── 관계형 DB (사용자·강의·퀘스트) └── 벡터 DB (RAG 임베딩 인덱스)
-
+[학생 / 강사 브라우저] │ ▼ [Frontend — React + TypeScript + Vite] │ (Vercel 배포) │ REST API / Bearer Token ▼ [Backend — FastAPI + Python] ├── 인증 서버 (JWT) ├── RAG 엔진 (강의 자료 벡터 인덱싱) ├── LLM 연동 (질의응답 / 문제 생성) └── 분석 엔진 (성취도·취약점 집계) │ ▼ [Database / Storage] ├── 관계형 DB (사용자·강의·퀘스트) └── 벡터 DB (RAG 임베딩 인덱스)
 ---
 ## 레포지토리
 | 구분 | 링크 | 기술 스택 |
