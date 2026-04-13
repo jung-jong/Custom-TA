@@ -3,9 +3,9 @@ AI 기반 맞춤형 교육 보조 플랫폼
 
 # Custom-TA
 > **강사의 시간을 돌려주고, 학생의 성장을 가시화하는** AI 맞춤형 교육 보조 플랫폼
-[![Frontend](https://img.shields.io/badge/Frontend-TypeScript-3178c6?logo=typescript)](프론트엔드_링크)
-[![Backend](https://img.shields.io/badge/Backend-Python-3776ab?logo=python)](백엔드_링크)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-37b1b1)](배포_URL)
+[![Frontend](https://img.shields.io/badge/Frontend-TypeScript-3178c6?logo=typescript)]([프론트엔드_링크](https://github.com/jung-jong/Front))
+[![Backend](https://img.shields.io/badge/Backend-Python-3776ab?logo=python)]([백엔드_링크](https://github.com/jung-jong/Back))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-37b1b1)]([배포_URL](https://custom-ta.vercel.app/))
 ---
 ## 서비스 한 줄 소개
 강사가 올린 강의 자료를 AI가 학습하여, **학생 질의응답 자동화**와 **맞춤 퀘스트 생성**을 제공하고,  
